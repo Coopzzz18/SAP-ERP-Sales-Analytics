@@ -122,11 +122,8 @@ SQL queries include:
 
 ### Executive KPI Dashboard
 
-Include screenshot here
+![Executive Dashboard](screenshots/ERP%20Sales%20Analytics%20Dashboard.png)
 
-```
-screenshots/ERP Sales Analytics Dashboard.png
-```
 
 Features
 
@@ -146,11 +143,7 @@ Features
 
 # Operational Dashboard
 
-Include screenshot here
-
-```
-screenshots/operational_sales_analysis.png
-```
+![Operational Dashboard](screenshots/operational_sales_analysis.png)
 
 Features
 
