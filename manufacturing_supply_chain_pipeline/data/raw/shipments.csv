@@ -1,0 +1,6 @@
+﻿ShipmentID,OrderID,Customer,Carrier,Destination,ShipDate,Units,FreightCost,Status
+S001,O1001,Burger King,MSC,Australia,6/1/2026,1200,4500,On Time
+S002,O1002,Walmart,Maersk,Texas,6/2/2026,850,2100,Late
+S003,O1003,Costco,MSC,California,6/3/2026,950,1800,On Time
+S004,O1004,Burger King,CMA CGM,Australia,6/4/2026,1300,4700,Delayed
+S005,O1005,Target,Maersk,Nevada,6/5/2026,700,1600,On Time

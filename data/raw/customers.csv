@@ -1,0 +1,201 @@
+CustomerID,CustomerName,Country,City,CustomerType
+CUST0001,"Gonzalez, Bullock and Diaz",Saint Helena,Jacobhaven,Restaurant
+CUST0002,Barajas-Lee,Qatar,West Allen,Restaurant
+CUST0003,Davis Inc,Paraguay,Port Jenniferfort,Retail
+CUST0004,Taylor-Lee,Portugal,Bowersside,Restaurant
+CUST0005,Smith-Shelton,Greece,North Ashleymouth,Retail
+CUST0006,Jensen Inc,Serbia,North Edward,Distributor
+CUST0007,Torres-Nguyen,Cook Islands,Lake Wesleyside,Retail
+CUST0008,Daniels-Rose,Australia,South Amanda,Retail
+CUST0009,"Fisher, Chen and Lewis",Heard Island and McDonald Islands,Seantown,Distributor
+CUST0010,Hodge and Sons,Western Sahara,New Raymondton,Restaurant
+CUST0011,"Waters, Morales and Owens",Somalia,Port Justin,Wholesaler
+CUST0012,"Williams, Morris and Buckley",Congo,South Nicholasburgh,Wholesaler
+CUST0013,"Ramirez, Clark and Thomas",Sri Lanka,Guerrerofort,Restaurant
+CUST0014,"Ross, Smith and Parker",Cyprus,South James,Distributor
+CUST0015,Dennis-Johnson,Spain,Jonathanberg,Wholesaler
+CUST0016,Webb-Brown,Singapore,Fordport,Retail
+CUST0017,"Berg, King and Patrick",United Kingdom,Paceburgh,Restaurant
+CUST0018,Oneill-Tyler,France,East Andrewfurt,Distributor
+CUST0019,Ortega-Salinas,Morocco,South Hollyshire,Restaurant
+CUST0020,Rodriguez PLC,Niue,New Thomasshire,Retail
+CUST0021,Greer-Gould,Croatia,Copelandport,Wholesaler
+CUST0022,"Reeves, Smith and Burke",Turkmenistan,East Janet,Wholesaler
+CUST0023,White-Adams,Norway,Boydhaven,Restaurant
+CUST0024,"Willis, Thomas and Robertson",Cote d'Ivoire,Jonesland,Restaurant
+CUST0025,Cannon-Haas,Turkmenistan,West Matthew,Restaurant
+CUST0026,Oneill Inc,New Zealand,Turnerborough,Wholesaler
+CUST0027,"Mendoza, Taylor and Jimenez",Thailand,Blackport,Restaurant
+CUST0028,"Wolf, Mendoza and Brady",North Macedonia,South Michael,Restaurant
+CUST0029,Walker PLC,Brunei Darussalam,Miguelstad,Restaurant
+CUST0030,Garza PLC,Saint Kitts and Nevis,Luismouth,Retail
+CUST0031,Montgomery Inc,Ethiopia,Lake Amanda,Distributor
+CUST0032,Lang Ltd,Colombia,Williamsonchester,Restaurant
+CUST0033,"Woods, Scott and Cunningham",Switzerland,South Michaelshire,Distributor
+CUST0034,Levy Ltd,Bolivia,East Anthony,Wholesaler
+CUST0035,Woods Inc,Benin,West Iantown,Wholesaler
+CUST0036,Kennedy-Garcia,Botswana,North Isaacland,Retail
+CUST0037,Watkins-Ferrell,Comoros,Davenportburgh,Retail
+CUST0038,Miller PLC,Taiwan,Virginiaside,Retail
+CUST0039,Anderson-Jones,Argentina,Lake Hannahview,Retail
+CUST0040,"Ferguson, Alexander and Guzman",Ukraine,Christopherland,Restaurant
+CUST0041,Campbell-Thomas,Equatorial Guinea,South Scotthaven,Wholesaler
+CUST0042,"Grant, Delgado and Lee",Svalbard & Jan Mayen Islands,Williamsmouth,Retail
+CUST0043,Roberts PLC,Latvia,New Brad,Wholesaler
+CUST0044,"Smith, Klein and Munoz",Guyana,Romeroview,Retail
+CUST0045,"Hardin, Sanders and Fletcher",Argentina,New Paultown,Distributor
+CUST0046,Garcia-Shaw,Cook Islands,Lake Kurtburgh,Retail
+CUST0047,Ross Group,Costa Rica,Petermouth,Restaurant
+CUST0048,Carpenter-Anderson,Saint Vincent and the Grenadines,East Brandon,Retail
+CUST0049,"Hampton, Myers and Moreno",Barbados,New Michaelstad,Retail
+CUST0050,Robbins LLC,Bahamas,North Kenneth,Retail
+CUST0051,Williams-Love,Cape Verde,Lake Samanthastad,Distributor
+CUST0052,Barry-Ingram,Mauritius,South Terrencebury,Wholesaler
+CUST0053,"Fuentes, Brown and Navarro",Lao People's Democratic Republic,Catherinebury,Wholesaler
+CUST0054,Collins LLC,Serbia,Port Autumn,Distributor
+CUST0055,Rush LLC,Montserrat,Burnsville,Retail
+CUST0056,"Butler, Hoffman and Bonilla",Finland,Angelaland,Restaurant
+CUST0057,Reed-Smith,Ghana,Timothyton,Restaurant
+CUST0058,Wilkerson-Sullivan,Suriname,Lake Adam,Wholesaler
+CUST0059,Hopkins-Foster,Cambodia,Port Katie,Restaurant
+CUST0060,"Fuller, Cooper and Bates",Bulgaria,Perkinsside,Distributor
+CUST0061,Murphy-Morgan,Monaco,Ryanfurt,Retail
+CUST0062,"Smith, Gordon and Jones",Nicaragua,South Jennifer,Distributor
+CUST0063,Harrison-Griffin,Saint Helena,New Danielchester,Retail
+CUST0064,Rose-Hughes,Argentina,East Allisonmouth,Wholesaler
+CUST0065,"Nunez, Williams and Harmon",Turks and Caicos Islands,West Jamie,Restaurant
+CUST0066,"Perez, Waller and Lambert",Montserrat,Bryceview,Distributor
+CUST0067,"Phillips, Carpenter and Schultz",Saint Pierre and Miquelon,Bishopville,Retail
+CUST0068,Bradley-Torres,Tanzania,Denisehaven,Restaurant
+CUST0069,"Smith, Howard and Hill",Nigeria,East Elizabethfurt,Restaurant
+CUST0070,Hawkins-Cruz,Honduras,Feliciaton,Wholesaler
+CUST0071,"Bruce, Shelton and Kelly",Slovenia,Rosston,Distributor
+CUST0072,"Ford, Oliver and Abbott",Norfolk Island,Mezaland,Wholesaler
+CUST0073,"Reynolds, Ramirez and Green",United States Virgin Islands,Stevenview,Retail
+CUST0074,"Rodriguez, Mitchell and Armstrong",Malawi,East Randytown,Distributor
+CUST0075,Clark-Flores,Dominica,Robertmouth,Distributor
+CUST0076,Robinson LLC,Panama,New Jeremyborough,Retail
+CUST0077,"Moore, Faulkner and Jones",Paraguay,Margaretport,Retail
+CUST0078,Martinez-Bowen,Liberia,Dennishaven,Wholesaler
+CUST0079,"Smith, Moore and Palmer",Chad,Michelemouth,Retail
+CUST0080,Leach Inc,Antarctica (the territory South of 60 deg S),Thompsonburgh,Wholesaler
+CUST0081,Hall-Cole,Guernsey,New Jessica,Distributor
+CUST0082,"Murphy, Gay and Garcia",Brazil,Ochoabury,Distributor
+CUST0083,Taylor-Anderson,Uganda,Jordanport,Wholesaler
+CUST0084,"Boyd, Castro and Carlson",Bahrain,New Richardland,Wholesaler
+CUST0085,Wallace-Dunn,Pitcairn Islands,East William,Restaurant
+CUST0086,Mack and Sons,Chad,Lauraland,Distributor
+CUST0087,Wagner-Krueger,Australia,North Bonnie,Distributor
+CUST0088,"Young, Howard and Fuentes",Malaysia,Port Eileenville,Retail
+CUST0089,Gomez and Sons,Madagascar,Nancyshire,Retail
+CUST0090,Bell-Key,Burundi,Harrisberg,Restaurant
+CUST0091,Quinn-Mcdonald,United Kingdom,West Derekburgh,Retail
+CUST0092,Warner LLC,French Polynesia,Gonzalezville,Retail
+CUST0093,"Campbell, Vargas and Roberson",Romania,Port Rachelbury,Distributor
+CUST0094,"Rodriguez, Thornton and Mcclure",Kuwait,West Peterberg,Retail
+CUST0095,Kirby Ltd,Saint Lucia,Danielville,Retail
+CUST0096,Boone-Walker,China,North Markfort,Retail
+CUST0097,Lang PLC,North Macedonia,Butlerside,Restaurant
+CUST0098,Butler Inc,San Marino,Johnsonborough,Restaurant
+CUST0099,"Baldwin, Lee and Ho",Bolivia,Darrenport,Distributor
+CUST0100,Christensen LLC,Czech Republic,Sharimouth,Distributor
+CUST0101,"Taylor, Curtis and Carter",Bouvet Island (Bouvetoya),Randyland,Retail
+CUST0102,Mcguire-Castillo,United States of America,Andersonborough,Retail
+CUST0103,York-Estrada,Lithuania,Perkinsview,Distributor
+CUST0104,"Morgan, Ortiz and James",Malawi,Smithside,Restaurant
+CUST0105,Martin-Vega,Andorra,Port Catherineland,Restaurant
+CUST0106,Fritz-Hernandez,Benin,East Johnberg,Distributor
+CUST0107,Mcdaniel-Anderson,Libyan Arab Jamahiriya,South Sabrina,Wholesaler
+CUST0108,Williams and Sons,Australia,Salazarbury,Distributor
+CUST0109,Boyd-Hinton,French Guiana,South Davidfurt,Wholesaler
+CUST0110,Benjamin LLC,Israel,Charlesshire,Retail
+CUST0111,Newman PLC,Norfolk Island,Victoriaberg,Wholesaler
+CUST0112,Ramirez-Watkins,Cuba,New Michael,Wholesaler
+CUST0113,Thomas PLC,Djibouti,New Natasha,Retail
+CUST0114,Johnson-Kemp,Grenada,Lake Jessicahaven,Distributor
+CUST0115,"Williams, Ware and Blake",Cape Verde,West Stevenborough,Distributor
+CUST0116,Woodard and Sons,Cuba,Lake Teresa,Wholesaler
+CUST0117,"Turner, Park and Leonard",Libyan Arab Jamahiriya,Brittanyport,Distributor
+CUST0118,"Nolan, Drake and Pennington",Djibouti,West Carolville,Restaurant
+CUST0119,Walker-Snyder,Italy,Birdland,Restaurant
+CUST0120,"Mcclain, Campbell and Raymond",Venezuela,Denisehaven,Distributor
+CUST0121,Jones-Jones,Qatar,Emilyville,Distributor
+CUST0122,Kane LLC,Andorra,West Julie,Wholesaler
+CUST0123,Walker LLC,Monaco,Grahamland,Distributor
+CUST0124,Everett-Powers,Lebanon,Ericland,Retail
+CUST0125,Bradley-Foster,Cote d'Ivoire,Lake Daniel,Distributor
+CUST0126,Horn-Reed,Solomon Islands,Grantton,Restaurant
+CUST0127,"Ford, Anderson and Cooper",Ukraine,Wandaland,Wholesaler
+CUST0128,Mccall-Davis,Belarus,Port Albertville,Restaurant
+CUST0129,"Ray, Allen and Jones",Tokelau,Jennifertown,Wholesaler
+CUST0130,Hays Inc,Malaysia,Hannahburgh,Distributor
+CUST0131,"Black, Campbell and Simmons",Italy,Nicolestad,Restaurant
+CUST0132,"Thomas, Lowe and Ramirez",Niger,Woodsport,Retail
+CUST0133,Olson Group,Peru,Tranfurt,Retail
+CUST0134,Austin Inc,Mozambique,East Thomas,Retail
+CUST0135,Brown-Daniel,Saint Vincent and the Grenadines,North Zachary,Distributor
+CUST0136,Wright-Valdez,Saint Martin,New Daniel,Restaurant
+CUST0137,"Davis, Perkins and Christensen",Seychelles,New Laurie,Restaurant
+CUST0138,Stewart and Sons,Guam,Gonzalezchester,Restaurant
+CUST0139,Fox-Young,Colombia,Taylorshire,Restaurant
+CUST0140,Murphy-Lee,Norfolk Island,Kimberlyville,Restaurant
+CUST0141,"Hartman, Brown and Peterson",Bermuda,Lake Bradton,Restaurant
+CUST0142,"Kelley, Rodriguez and Koch",Vanuatu,New Kylefort,Restaurant
+CUST0143,"Chan, Campbell and Jones",Bangladesh,Bradleyborough,Distributor
+CUST0144,Wyatt-Jackson,Albania,New Stacyview,Distributor
+CUST0145,Chavez PLC,Saint Helena,Lake Nicolechester,Wholesaler
+CUST0146,"Dickerson, Calderon and Becker",Paraguay,Colemanberg,Wholesaler
+CUST0147,Bryant PLC,Montenegro,New Sophia,Restaurant
+CUST0148,Rasmussen-Ashley,Lebanon,Lake Steve,Retail
+CUST0149,Sims-Barrett,Reunion,Garrettview,Retail
+CUST0150,Gibson-Salinas,Trinidad and Tobago,Lake Madison,Distributor
+CUST0151,Mcgee LLC,Colombia,Hatfieldmouth,Distributor
+CUST0152,Chapman Ltd,Tokelau,East Lori,Distributor
+CUST0153,Welch-Jones,Ukraine,Hendricksshire,Wholesaler
+CUST0154,Rodriguez-Jarvis,Vietnam,Rogersville,Restaurant
+CUST0155,Jackson LLC,Marshall Islands,East Amy,Restaurant
+CUST0156,Reed Group,Malta,West Connie,Wholesaler
+CUST0157,"Craig, Williams and Williams",France,Marychester,Retail
+CUST0158,Marsh-Willis,El Salvador,Karenshire,Restaurant
+CUST0159,Thomas-Haynes,Mali,Lake Brandyburgh,Distributor
+CUST0160,Miller PLC,Saint Lucia,Rothmouth,Wholesaler
+CUST0161,"Brown, Lester and Keith",Ghana,Hornebury,Retail
+CUST0162,Ball Ltd,Montenegro,Susanside,Distributor
+CUST0163,Smith-Howard,Saint Lucia,Jenniferfurt,Distributor
+CUST0164,Vargas-Jackson,Gambia,West Susan,Retail
+CUST0165,Odom and Sons,Fiji,Larsentown,Distributor
+CUST0166,Mullen-Brown,Uganda,Port Brandonland,Wholesaler
+CUST0167,"Williamson, Clark and Miller",Mauritania,Tiffanystad,Restaurant
+CUST0168,Sharp LLC,Panama,Jenniferland,Distributor
+CUST0169,Soto-Stanley,Poland,Allenfurt,Retail
+CUST0170,"Webb, Owens and Vargas",Burundi,Adriantown,Wholesaler
+CUST0171,Reid-Meyer,Mexico,Susanmouth,Distributor
+CUST0172,"Steele, Gonzalez and Wilson",Ireland,Port Charles,Wholesaler
+CUST0173,Woods-Allen,Israel,New Jamesfurt,Restaurant
+CUST0174,Hall PLC,Papua New Guinea,Christineland,Distributor
+CUST0175,"Jackson, Moon and Hunt",Ecuador,North Vanessa,Retail
+CUST0176,"Herrera, Jackson and Johnson",Mauritius,South Pamelaborough,Restaurant
+CUST0177,"Rice, Suarez and Ball",Venezuela,New Jacob,Restaurant
+CUST0178,"Williams, Robertson and Carter",Peru,West Nicholas,Wholesaler
+CUST0179,Moore Group,Saint Martin,Jamesview,Retail
+CUST0180,"Walker, Ayala and Obrien",Pakistan,North Williamchester,Distributor
+CUST0181,"Pham, Travis and Mcdonald",Bulgaria,Rebeccaborough,Wholesaler
+CUST0182,"Chavez, Fox and Lutz",Isle of Man,Maryburgh,Retail
+CUST0183,Diaz Inc,Ukraine,Robertsonland,Distributor
+CUST0184,"Joseph, Knight and Phillips",Tajikistan,East Jerryton,Retail
+CUST0185,"Stewart, Padilla and Jackson",Jordan,Lake Ericchester,Distributor
+CUST0186,Wolf-Baird,New Zealand,Phyllishaven,Retail
+CUST0187,"Garner, Hernandez and Cooper",Azerbaijan,South Charles,Retail
+CUST0188,"James, Hall and Johnson",Ethiopia,West Olivia,Restaurant
+CUST0189,Woodard-Wright,Nicaragua,Port Brandi,Wholesaler
+CUST0190,"Cervantes, Bryan and Warren",Kuwait,Brownville,Retail
+CUST0191,Munoz-Hodge,Saint Barthelemy,Pattersonhaven,Retail
+CUST0192,Harper PLC,Moldova,Thompsontown,Wholesaler
+CUST0193,"Walker, Hodges and Swanson",Pitcairn Islands,New Lisa,Wholesaler
+CUST0194,Allen-Oconnor,Albania,Denisemouth,Wholesaler
+CUST0195,Hamilton-Smith,Costa Rica,Maddenside,Restaurant
+CUST0196,Shea Group,Brazil,East Melissafort,Distributor
+CUST0197,"Thompson, Carey and Montgomery",Trinidad and Tobago,Lake Joannahaven,Wholesaler
+CUST0198,Golden Inc,French Guiana,West Toddberg,Wholesaler
+CUST0199,Cook-Hebert,Nigeria,South Mary,Distributor
+CUST0200,"Barrett, Moss and Butler",Israel,East Nicholas,Restaurant

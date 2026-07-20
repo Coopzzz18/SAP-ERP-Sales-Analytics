@@ -1,0 +1,51 @@
+SupplierID,SupplierName,Country,Rating
+SUP001,Adams and Sons,Martinique,5
+SUP002,"Cole, Foster and Vincent",France,2
+SUP003,"Zimmerman, Frank and Solis",Uzbekistan,1
+SUP004,Silva Ltd,Bosnia and Herzegovina,1
+SUP005,Simmons Group,Slovenia,4
+SUP006,"Carpenter, Reed and Myers",Guam,1
+SUP007,Bates-Leblanc,Yemen,1
+SUP008,"Hartman, King and Kelly",Bosnia and Herzegovina,4
+SUP009,Perez and Sons,Micronesia,4
+SUP010,Knight-Elliott,Monaco,4
+SUP011,Warren Inc,Korea,1
+SUP012,Rojas-Ferguson,Guadeloupe,2
+SUP013,"Phillips, Woodard and Price",Bulgaria,2
+SUP014,"Watson, Barnes and Meyer",Kyrgyz Republic,3
+SUP015,Ibarra LLC,Albania,3
+SUP016,Buckley LLC,Northern Mariana Islands,3
+SUP017,Blake-Green,Mongolia,1
+SUP018,"Gonzales, Davis and Jenkins",Palestinian Territory,1
+SUP019,Jennings LLC,Mauritania,1
+SUP020,Bowman PLC,Cote d'Ivoire,2
+SUP021,Owen-Steele,Reunion,2
+SUP022,Maldonado-Wilkins,Jordan,5
+SUP023,Wise-Herrera,Tuvalu,3
+SUP024,Waller Ltd,Cocos (Keeling) Islands,4
+SUP025,Sanchez-Hayes,Lesotho,3
+SUP026,Williams and Sons,Congo,5
+SUP027,Giles-Pena,United States Virgin Islands,1
+SUP028,"Kennedy, Decker and Simmons",Rwanda,1
+SUP029,Shaw-Ray,Bosnia and Herzegovina,1
+SUP030,Hill-Smith,French Guiana,5
+SUP031,Alvarado-Freeman,Greece,2
+SUP032,Marquez PLC,Ukraine,1
+SUP033,Bryant-Robinson,Northern Mariana Islands,2
+SUP034,"Gonzalez, Oneill and Jacobson",Tajikistan,3
+SUP035,Rodriguez-Hughes,Turkey,5
+SUP036,Duran-Romero,Slovakia (Slovak Republic),4
+SUP037,"Fernandez, Hayes and Lane",Sri Lanka,1
+SUP038,Buchanan PLC,Azerbaijan,3
+SUP039,Wilson Inc,Djibouti,5
+SUP040,Lewis-Sullivan,Honduras,2
+SUP041,Rowe LLC,American Samoa,2
+SUP042,Wilson-Burton,Andorra,3
+SUP043,"Miller, French and Davis",Croatia,3
+SUP044,Jones-Becker,American Samoa,2
+SUP045,Stewart-Smith,South Georgia and the South Sandwich Islands,2
+SUP046,Holt-Maynard,United States Minor Outlying Islands,1
+SUP047,Nelson-Walker,Saint Vincent and the Grenadines,4
+SUP048,Anderson-Brewer,Aruba,3
+SUP049,Rice-Perez,Kyrgyz Republic,2
+SUP050,Small and Sons,New Caledonia,5

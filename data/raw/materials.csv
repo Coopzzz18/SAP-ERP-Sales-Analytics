@@ -1,0 +1,151 @@
+MaterialID,MaterialName,Category,UnitPrice
+MAT0001,Salad Dressing,Oil,58.57
+MAT0002,Mustard,Condiments,17.41
+MAT0003,Butter Blend,Oil,74.77
+MAT0004,BBQ Sauce,Sauces,22.84
+MAT0005,Shortening,Condiments,25.46
+MAT0006,Mustard,Butter,45.9
+MAT0007,Mayonnaise,Oil,55.5
+MAT0008,Olive Oil,Condiments,55.48
+MAT0009,Ketchup,Oil,16.2
+MAT0010,BBQ Sauce,Butter,16.37
+MAT0011,Butter Blend,Butter,24.64
+MAT0012,Butter Blend,Butter,73.46
+MAT0013,Cooking Spray,Oil,73.82
+MAT0014,Butter Blend,Condiments,55.3
+MAT0015,Mustard,Butter,11.28
+MAT0016,Mustard,Butter,29.43
+MAT0017,Ketchup,Sauces,24.09
+MAT0018,Mayonnaise,Sauces,11.47
+MAT0019,Shortening,Butter,27.6
+MAT0020,Canola Oil,Condiments,15.73
+MAT0021,Cooking Spray,Sauces,36.81
+MAT0022,Butter Blend,Butter,26.18
+MAT0023,Butter Blend,Oil,51.77
+MAT0024,Mayonnaise,Oil,50.28
+MAT0025,Olive Oil,Condiments,42.66
+MAT0026,Salad Dressing,Sauces,43.56
+MAT0027,Cooking Spray,Oil,38.5
+MAT0028,Shortening,Butter,27.9
+MAT0029,Cooking Spray,Sauces,67.53
+MAT0030,Olive Oil,Condiments,16.04
+MAT0031,Butter Blend,Oil,9.09
+MAT0032,Cooking Spray,Butter,11.35
+MAT0033,Mayonnaise,Oil,74.02
+MAT0034,Salad Dressing,Sauces,53.09
+MAT0035,Ketchup,Condiments,61.89
+MAT0036,Mustard,Condiments,59.74
+MAT0037,Canola Oil,Butter,29.17
+MAT0038,Olive Oil,Condiments,52.72
+MAT0039,BBQ Sauce,Condiments,49.42
+MAT0040,Shortening,Butter,48.03
+MAT0041,BBQ Sauce,Condiments,42.04
+MAT0042,Ketchup,Butter,49.04
+MAT0043,Mayonnaise,Butter,27.78
+MAT0044,Salad Dressing,Sauces,29.31
+MAT0045,Shortening,Butter,48.65
+MAT0046,Ketchup,Sauces,8.28
+MAT0047,Mayonnaise,Sauces,64.97
+MAT0048,Mustard,Condiments,31.88
+MAT0049,Canola Oil,Sauces,26.32
+MAT0050,Canola Oil,Butter,32.03
+MAT0051,Mustard,Condiments,62.07
+MAT0052,Ketchup,Condiments,10.27
+MAT0053,Canola Oil,Sauces,43.8
+MAT0054,Olive Oil,Oil,21.33
+MAT0055,Salad Dressing,Oil,30.52
+MAT0056,Ketchup,Butter,72.89
+MAT0057,Mayonnaise,Sauces,27.41
+MAT0058,BBQ Sauce,Condiments,37.82
+MAT0059,Salad Dressing,Sauces,19.01
+MAT0060,Canola Oil,Sauces,73.15
+MAT0061,Canola Oil,Butter,53.74
+MAT0062,Cooking Spray,Butter,47.64
+MAT0063,Mustard,Oil,11.76
+MAT0064,Olive Oil,Condiments,34.32
+MAT0065,Olive Oil,Butter,41.14
+MAT0066,Olive Oil,Sauces,59.12
+MAT0067,Olive Oil,Butter,59.3
+MAT0068,Cooking Spray,Condiments,65.6
+MAT0069,Salad Dressing,Oil,68.67
+MAT0070,Butter Blend,Butter,57.15
+MAT0071,Ketchup,Sauces,54.77
+MAT0072,BBQ Sauce,Sauces,63.54
+MAT0073,Mustard,Butter,40.02
+MAT0074,Salad Dressing,Oil,40.46
+MAT0075,Olive Oil,Oil,36.61
+MAT0076,Olive Oil,Sauces,32.35
+MAT0077,Mayonnaise,Oil,67.36
+MAT0078,Cooking Spray,Butter,20.84
+MAT0079,Mayonnaise,Oil,67.19
+MAT0080,Ketchup,Oil,24.67
+MAT0081,Olive Oil,Sauces,65.8
+MAT0082,Butter Blend,Condiments,20.44
+MAT0083,Mayonnaise,Condiments,37.66
+MAT0084,Mustard,Butter,37.65
+MAT0085,Butter Blend,Oil,24.88
+MAT0086,Butter Blend,Oil,57.24
+MAT0087,Butter Blend,Sauces,53.97
+MAT0088,Olive Oil,Condiments,45.13
+MAT0089,BBQ Sauce,Sauces,70.69
+MAT0090,Mayonnaise,Sauces,47.48
+MAT0091,Mayonnaise,Sauces,11.7
+MAT0092,BBQ Sauce,Oil,44.31
+MAT0093,Shortening,Butter,17.22
+MAT0094,Mayonnaise,Oil,72.56
+MAT0095,Canola Oil,Condiments,17.9
+MAT0096,Ketchup,Butter,32.25
+MAT0097,Cooking Spray,Butter,55.68
+MAT0098,Salad Dressing,Oil,17.41
+MAT0099,Butter Blend,Butter,69.15
+MAT0100,Butter Blend,Oil,15.35
+MAT0101,Butter Blend,Condiments,50.58
+MAT0102,Cooking Spray,Condiments,13.42
+MAT0103,Canola Oil,Sauces,18.93
+MAT0104,Butter Blend,Butter,24.94
+MAT0105,Olive Oil,Condiments,49.02
+MAT0106,BBQ Sauce,Sauces,66.55
+MAT0107,Ketchup,Butter,8.77
+MAT0108,Salad Dressing,Butter,17.49
+MAT0109,Salad Dressing,Sauces,47.2
+MAT0110,Ketchup,Sauces,57.08
+MAT0111,Cooking Spray,Butter,14.19
+MAT0112,Olive Oil,Sauces,50.11
+MAT0113,Olive Oil,Oil,17.61
+MAT0114,Ketchup,Condiments,64.84
+MAT0115,Olive Oil,Condiments,60.83
+MAT0116,BBQ Sauce,Condiments,74.44
+MAT0117,Mustard,Oil,32.46
+MAT0118,Cooking Spray,Butter,12.22
+MAT0119,Cooking Spray,Butter,71.87
+MAT0120,Mayonnaise,Oil,25.45
+MAT0121,Ketchup,Sauces,20.27
+MAT0122,Salad Dressing,Oil,52.41
+MAT0123,BBQ Sauce,Condiments,15.67
+MAT0124,BBQ Sauce,Oil,38.93
+MAT0125,Olive Oil,Condiments,27.87
+MAT0126,Butter Blend,Condiments,51.98
+MAT0127,Cooking Spray,Butter,37.11
+MAT0128,Shortening,Butter,33.84
+MAT0129,BBQ Sauce,Condiments,32.36
+MAT0130,Canola Oil,Condiments,62.89
+MAT0131,BBQ Sauce,Butter,38.71
+MAT0132,Shortening,Butter,43.4
+MAT0133,Butter Blend,Sauces,71.72
+MAT0134,Canola Oil,Oil,36.32
+MAT0135,Ketchup,Butter,44.89
+MAT0136,Mayonnaise,Oil,12.75
+MAT0137,Cooking Spray,Oil,57.82
+MAT0138,Salad Dressing,Condiments,16.9
+MAT0139,Canola Oil,Oil,40.94
+MAT0140,Mustard,Condiments,14.19
+MAT0141,Mustard,Condiments,54.72
+MAT0142,Mayonnaise,Sauces,13.46
+MAT0143,Canola Oil,Condiments,34.36
+MAT0144,Shortening,Condiments,8.08
+MAT0145,Cooking Spray,Butter,65.78
+MAT0146,Ketchup,Sauces,67.21
+MAT0147,Mayonnaise,Butter,37.76
+MAT0148,Olive Oil,Sauces,65.09
+MAT0149,Ketchup,Oil,31.87
+MAT0150,Mayonnaise,Oil,8.2
