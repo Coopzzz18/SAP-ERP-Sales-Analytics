@@ -143,7 +143,7 @@ Features
 
 # Operational Dashboard
 
-![Operational Dashboard](screenshots/operational_sales_analysis.png)
+![Operational Dashboard](screenshots/operational%20sales%20analysis.png)
 
 Features
 
