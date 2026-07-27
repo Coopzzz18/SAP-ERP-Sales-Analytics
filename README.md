@@ -1,252 +1,243 @@
 # 📊 SAP ERP Sales Analytics Dashboard
 
-End-to-end Business Intelligence project simulating an SAP ERP sales environment for a manufacturing company.
+> End-to-end ERP Sales Analytics project demonstrating SQL, SQLite, Python, data modeling, DAX, and Power BI.
 
-This project demonstrates the complete analytics workflow from **data generation** to **executive dashboards** using:
+---
 
-- Python
-- SQLite
+## 📌 Project Overview
+
+This project simulates an ERP sales analytics environment using a relational database and interactive Power BI dashboards.
+
+The objective was to transform raw ERP sales data into actionable business insights for executives and operations managers through interactive reporting and KPI analysis.
+
+The project follows a complete analytics workflow:
+
+- Data preparation
+- SQL database design
+- Power Query transformations
+- Data modeling
+- DAX calculations
+- Dashboard development
+- Business insight generation
+
+---
+
+# 🚀 Technologies Used
+
+- Power BI Desktop
 - SQL
-- Power BI
+- SQLite
+- Python
+- Power Query
+- DAX
 - Git & GitHub
 
 ---
 
-# Project Overview
-
-The objective of this project was to simulate an ERP sales system similar to SAP and analyze business performance through SQL and Power BI.
-
-The project includes:
-
-- Python-generated ERP datasets
-- Relational SQLite database
-- SQL reporting queries
-- Executive Power BI Dashboard
-- Operational Power BI Dashboard
-
----
-
-# Business Questions Answered
-
-This project answers common business questions such as:
-
-- What is total company revenue?
-- Which customers generate the most revenue?
-- Which products sell the most?
-- Which manufacturing plants perform best?
-- Which countries generate the highest sales?
-- What is the monthly sales trend?
-- What percentage of orders are Completed, Cancelled, Backordered, or In Process?
-
----
-
-# Tech Stack
-
-| Tool | Purpose |
-|-------|----------|
-| Python | Generate ERP data |
-| SQLite | Relational database |
-| SQL | Business analysis |
-| Power BI | Interactive dashboards |
-| Git | Version control |
-| GitHub | Portfolio hosting |
-
----
-
-# Project Structure
+# 📂 Project Structure
 
 ```
 SAP-ERP-Sales-Analytics/
-
+│
 ├── data/
-│   └── raw/
 │
 ├── database/
-│   └── erp.db
 │
 ├── powerbi/
-│   └── SAP_ERP_Sales_Dashboard.pbix
+│   └── ERP_Sales_Dashboard_v01.pbix
 │
-├── sql/
-│   ├── customer_revenue.sql
-│   ├── monthly_sales.sql
-│   ├── top_materials.sql
-│   └── ...
+├── reports/
+│   └── Screenshots/
 │
 ├── scripts/
-│   ├── generate_erp_data.py
-│   └── generate_sales_orders.py
 │
-├── screenshots/
+├── sql/
 │
 └── README.md
 ```
 
 ---
 
-# Data Model
+# 📊 Dashboard Pages
 
-The Power BI model follows a Star Schema.
+## Executive Dashboard
 
-Fact Table
+Designed for leadership teams to monitor overall business performance.
 
-- Sales Orders
-
-Dimension Tables
-
-- Customers
-- Materials
-- Plants
-- Suppliers
-
-Relationships were built using unique keys to simulate a real ERP reporting environment.
-
----
-
-# SQL Analysis
-
-SQL queries include:
-
-- Customer Revenue Analysis
-- Monthly Revenue Trends
-- Top Selling Products
-- Revenue by Country
-- Revenue by Plant
-- Order Status Analysis
-- Customer Volume Analysis
-- Product Performance
-
----
-
-# Executive Dashboard
-
-### Executive KPI Dashboard
-
-![Executive Dashboard](screenshots/ERP%20Sales%20Analytics%20Dashboard.png)
-
-
-Features
+### KPIs
 
 - Total Revenue
 - Total Orders
 - Total Units Sold
-- Average Order Value
 - Total Customers
-- Revenue by Month
-- Revenue by Category
-- Top Customers
+- Average Order Value
+- Average Selling Price
+
+### Visualizations
+
+- Monthly Revenue Trend
+- Revenue by Product Category
 - Revenue by Country
-- Top Products
-- Order Status Breakdown
+- Revenue by Customer Type
+- Interactive slicers
+
+### Executive Filters
+
+- Customer
+- Product Category
+- Sales Channel
+- Product
+- Year
 
 ---
 
-# Operational Dashboard
+## Operations Dashboard
 
-![Operational Dashboard](screenshots/operational%20sales%20analysis.png)
+Designed for operations and supply chain teams.
 
-Features
+### KPIs
 
-- Detailed Sales Order Table
-- Revenue by Country
+- Total Orders
+- Average Days Early/Late
+- Average Discount %
+- Total Revenue
+
+### Operational Visualizations
+
+- Delivery Status
+- Revenue by Sales Channel
 - Revenue by Plant
-- Monthly Revenue
-- Operational Filtering
+- Top Products by Units
+- Monthly Order Volume
+
+### Operational Filters
+
+- Plant
+- Sales Channel
+- Order Status
+- Delivery Status
 
 ---
 
-# Key Insights
+# 📈 Data Model
 
-Example insights from the simulated ERP data:
+The project uses a **star schema**.
 
-- Generated over **$241M** in total revenue.
-- Processed over **10,000 sales orders**.
-- Revenue decreased significantly after July, indicating possible seasonality.
-- Completed orders represented approximately 50% of all orders.
-- Revenue distribution was balanced across four manufacturing plants.
+### Fact Table
+
+- sales_orders
+
+### Dimension Tables
+
+- customers
+- materials
+- plants
+- suppliers
+
+Relationships were created using unique IDs to enable efficient filtering and reporting.
 
 ---
 
-# Skills Demonstrated
+# 📐 DAX Measures
 
-✔ Data Modeling
+Examples include:
 
-✔ ETL Concepts
+```DAX
+Total Revenue
 
-✔ SQL
+Total Orders
 
-✔ SQLite
+Total Customers
 
-✔ Power BI
+Total Units Sold
+
+Average Order Value
+
+Average Selling Price
+
+Average Discount %
+
+Average Days Early/Late
+```
+
+These measures provide dynamic calculations that automatically update based on slicer selections.
+
+---
+
+# 🔍 Business Insights
+
+The dashboards enable users to answer questions such as:
+
+- Which product categories generate the most revenue?
+- Which customer types drive sales?
+- Which plants produce the highest revenue?
+- Which sales channels perform best?
+- How are deliveries performing?
+- What are monthly sales trends?
+- Which products sell the highest volume?
+
+---
+
+# 📷 Dashboard Preview
+
+## Executive Dashboard
+
+![Executive Dashboard](reports/Screenshots/ERP%20Sales%20Dashboard.png)
+
+---
+
+## Operations Dashboard
+
+![Operations Dashboard](reports/Screenshots/operations%20dashboard.png)
+
+---
+
+# 🎯 Skills Demonstrated
+
+✔ SQL Querying
+
+✔ Relational Database Design
+
+✔ Star Schema Modeling
+
+✔ Power Query (ETL)
 
 ✔ DAX Measures
 
-✔ Dashboard Design
+✔ Interactive Power BI Dashboards
 
-✔ Business Intelligence
+✔ KPI Development
 
 ✔ Data Visualization
 
-✔ Git
+✔ Business Intelligence
 
-✔ GitHub
-
----
-
-# Future Improvements
-
-Possible future enhancements include:
-
-- Inventory Dashboard
-- Supply Chain KPIs
-- Sales Forecasting
-- Customer Segmentation
-- Machine Learning Sales Prediction
-- Power BI Drillthrough Pages
-- Power BI Bookmarks
-- Automated Python ETL Pipeline
+✔ Git & GitHub Version Control
 
 ---
 
-# How to Run
+# 💼 Portfolio Objective
 
-1. Clone the repository
+This project demonstrates the practical skills required for roles including:
 
-```bash
-git clone https://github.com/Coopzzz18/SAP-ERP-Sales-Analytics.git
-```
-
-2. Open the SQLite database
-
-```
-database/erp.db
-```
-
-3. Run SQL queries
-
-```
-sql/
-```
-
-4. Open the Power BI dashboard
-
-```
-powerbi/SAP_ERP_Sales_Dashboard.pbix
-```
+- Data Analyst
+- Business Intelligence Analyst
+- Supply Chain Analyst
+- Operations Analyst
+- Production Planner
 
 ---
 
-# Author
+# 👨‍💻 Author
 
 **Garrett Miranda**
 
-Aspiring Supply Chain & Data Analyst
+GitHub:
+https://github.com/Coopzzz18
 
-Skills:
+LinkedIn:
+*(Add your LinkedIn URL here)*
 
-- SQL
-- Python
-- Power BI
-- Supply Chain Analytics
-- Business Intelligence
-- Manufacturing Analytics
+---
+
+⭐ Thank you for viewing this project!
